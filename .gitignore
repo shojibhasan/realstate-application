@@ -1,0 +1,7 @@
+db.sqlite3
+.idea
+myenv
+media
+.log
+.put
+.pyc
